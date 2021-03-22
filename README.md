@@ -2,6 +2,8 @@
 
 Página web del candidato a alcalde, Tomás Garate, por el movimiento ciudadano Transforma Puerto Varas. Movimiento que se ha propuesto transformar Puerto Varas en una comuna inclusiva, justa y sostenible. 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3e53b098-c915-4423-88a8-167028862cc8/deploy-status)](https://app.netlify.com/sites/tomasgarate/deploys)
+
 ## Comenzando 🚀
 
 Mira **Deployment** para conocer como desplegar el proyecto.
